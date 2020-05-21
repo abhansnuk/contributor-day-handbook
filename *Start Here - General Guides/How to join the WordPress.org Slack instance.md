@@ -5,7 +5,7 @@
 
 Slack is an online collaborative communication tool, which is used by the teams that make WordPress.org. You can access it on a web browser or through the Slack app. It is free to join. 
 
-Here is all the information you will need to get started:
+Here is all the information you will need to get started. You will need a WordPress.org account to be able to join the WordPress Slack - you can find out how in its handbook guide.
 
 ## How do I join?
 
