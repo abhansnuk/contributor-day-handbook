@@ -17,8 +17,9 @@ Choose a strong password for your account when prompted. You can fill in optiona
 7. (Optional) click your username on the top right corner to access and edit your profile information.
 
 ### Need more help?
-Check out the video guide on how to set up WordPress.org and Slack accounts for the Make WordPress channel:
+Check out these video guides on how to set up WordPress.org and Slack accounts for the Make WordPress channel. We will add more translated versions as they become available.
 
-[![Set up WordPress.org and Slack accounts for the Make WordPress channel - English version](https://i.ytimg.com/vi/XjO7sGhNJ9o/maxresdefault.jpg)](//www.youtube.com/watch?v=XjO7sGhNJ9o "Set up a WordPress.org and Slack account for the Make WordPress Channel - English version")
+[![Video set up WordPress.org and Slack accounts for the Make WordPress channel - language version: English (UK)](https://i.ytimg.com/vi/XjO7sGhNJ9o/maxresdefault.jpg)](//www.youtube.com/watch?v=XjO7sGhNJ9o "Set up a WordPress.org and Slack account for the Make WordPress Channel - English (UK) version")
 
-
+[![Video guide to set up a WordPress.org and Slack account for the Make WordPress Channel - language version: Dutch (Netherlands)](https://github.com/WordPress/contributor-day-handbook/blob/master/image/Create%20wordpress-org%20account%2001_EN.png
+)](//www.youtube.com/watch?v=T0vuo8tFeJg "Video guide to set up a WordPress.org and Slack account for the Make WordPress Channel - Dutch (Netherlands)")
